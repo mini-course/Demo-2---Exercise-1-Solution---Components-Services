@@ -1,0 +1,9 @@
+.title, .main-content{
+    text-align: center;
+}
+
+.courses-element{
+    width: 300px;
+    display: inline-block;
+    text-align: left;
+}

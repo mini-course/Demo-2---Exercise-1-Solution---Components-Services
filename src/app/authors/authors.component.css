@@ -1,0 +1,9 @@
+.title, .main-content, .input{
+    text-align: center;
+}
+
+.authors-element{
+    width: 300px;
+    display: inline-block;
+    text-align: left;
+}
